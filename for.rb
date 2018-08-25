@@ -1,8 +1,8 @@
 
 def using_for
 	checklist = 1..10
-	for checklist in practice
-		puts "until the phrase 'Wingardium Leviosa' 10 times, once for each item on the checklist"
+	for checklist in practicing
+		puts "Wingardium Leviosa"
   end
 end
 
